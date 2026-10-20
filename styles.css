@@ -78,6 +78,8 @@
 
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
+/* El hero usa 100vw (incluye la barra de scroll vertical): evita el scroll horizontal */
+html, body { overflow-x: clip; }
 html { scroll-behavior: smooth; }
 body {
   font-family: var(--sans);

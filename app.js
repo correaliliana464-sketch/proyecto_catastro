@@ -70,9 +70,9 @@ const TOOLS = [
     url:"https://sigi.igac.gov.co/portal/apps/webappviewer/index.html?id=416048809f8548d29f309e87d342f12c" },
 
   // Gestión y Datos
-  { nombre:"Gestión del Dato", cat:"Gestión y Datos", icon:"data",
-    desc:"Plataforma de gestión y gobierno del dato institucional.",
-    url:"https://gestiondato.igac.gov.co/" },
+  { nombre:"SEGA PRO", cat:"Gestión y Datos", icon:"login",
+    desc:"Acceso a la plataforma SEGA PRO del IGAC.",
+    url:"https://segapro.igac.gov.co/login" },
   { nombre:"Herramientas de Calidad", cat:"Gestión y Datos", icon:"quality",
     desc:"Validación de consistencia lógica, ingesta CICA y proyectos de campo.",
     url:"https://igacoffice365.sharepoint.com/sites/HerramientasdeCalidad/SitePages/HomeForBrandCentral.aspx?e=4%3A4834fd30a4fb429c99578be66a26113d&web=1&sharingv2=true&fromShare=true&at=9&xsdata=MDV8MDJ8bGlsaWFuYS5jb3JyZWFAaWdhYy5nb3YuY298MTU0OTAyMWFiM2UwNGQ3ZTQxOGIwOGRkZmY1YWJlMWZ8ZWQ0OWZlOWE2ZWVhNDdlNmJmNTJlZTllY2I1ZGE4MDd8MHwwfDYzODk0NzQ4NzM5MTYyNzc0NnxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3D%3D&sdata=MFdycndoalk2NW5ERTN1ZHdNY25MMDV6SVBrRUR4R083OHdyeHNWUGJGaz0%3D&CT=1772038362487&OR=OWA-NT-Mail&CID=2fac590f-a948-01a3-54e7-529f4829beae" },
